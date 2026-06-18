@@ -1,0 +1,1 @@
+link to the writeup: https://dev.to/deoxys/secure-database-password-picoctf-writeup-5f45

@@ -1,0 +1,1 @@
+link to the writeup: https://dev.to/deoxys/bypass-me-picoctf-writeup-47ie
