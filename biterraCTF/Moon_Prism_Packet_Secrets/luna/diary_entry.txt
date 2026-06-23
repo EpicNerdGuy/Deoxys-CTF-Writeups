@@ -1,0 +1,9 @@
+Dear Luna,
+
+I slipped the rehearsal diary behind the MOONSHINE marker in the selfie,
+just like the idol manager asked. Anyone inspecting pixel data without
+carving tools should only see a pretty gradient.
+
+Flag: bitctf{{m00n_pr15m_p4yl04d}}
+
+— Usagi
